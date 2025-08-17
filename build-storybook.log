@@ -1,0 +1,4 @@
+
+> html-storybook@1.0.0 build-storybook
+> build-storybook -o storybook-static --output-dir=C:\Users\user\AppData\Local\Temp\chromatic--9640-gB9jaBYPOL8G
+
